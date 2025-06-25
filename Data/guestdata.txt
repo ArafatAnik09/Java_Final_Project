@@ -1,0 +1,33 @@
+Date and Time: 11:41 AM, 25/06/2025
+========================================================
+Name: S. M. Tanvir Hassan
+Contact: 01762751674
+NID: 524155841255
+Gender: Male
+Room Type: Single
+Services: Breakfast Wi-Fi Parking
+Room View: Sea View
+Comments: good quality.
+--------------------------------------------------------
+Date and Time: 11:42 AM, 25/06/2025
+========================================================
+Name: Yeasin Arafat
+Contact: 01576673833
+NID: 55614548465464
+Gender: Male
+Room Type: Single
+Services: Breakfast Wi-Fi Parking
+Room View: City View
+Comments: fast service.
+--------------------------------------------------------
+Date and Time: 12:31 PM, 25/06/2025
+========================================================
+Name: tanvir
+Contact: 45455021
+NID: 14478525
+Gender: Male
+Room Type: Single
+Services: Breakfast
+Room View: City View
+Comments: nice
+--------------------------------------------------------
